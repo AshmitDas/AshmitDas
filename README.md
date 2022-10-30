@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AshmitDas](https://github.com/AshmitDas)
+- 👨‍💻 All of my projects are available at [here](https://github.com/AshmitDas)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
