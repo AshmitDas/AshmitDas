@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashmit Das</h1>
-<h3 align="center">A passionate Full stack developer from India.</h3>
+<h3 align="center">A passionate Full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmitdas&label=Profile%20views&color=0e75b6&style=flat" alt="ashmitdas" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development.**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/AshmitDas)
+- 👨‍💻 All of my projects are available [here.](https://github.com/AshmitDas)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
